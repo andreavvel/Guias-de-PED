@@ -1,0 +1,21 @@
+C:\Users\Postgrados\Documents\AGVJ\PED\Ejemplo 1\Guia 1 PED VJ210576\bin\Debug\Guia 1 PED VJ210576.exe.config
+C:\Users\Postgrados\Documents\AGVJ\PED\Ejemplo 1\Guia 1 PED VJ210576\bin\Debug\Guia 1 PED VJ210576.exe
+C:\Users\Postgrados\Documents\AGVJ\PED\Ejemplo 1\Guia 1 PED VJ210576\bin\Debug\Guia 1 PED VJ210576.pdb
+C:\Users\Postgrados\Documents\AGVJ\PED\Ejemplo 1\Guia 1 PED VJ210576\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\Postgrados\Documents\AGVJ\PED\Ejemplo 1\Guia 1 PED VJ210576\obj\Debug\Guia_1_PED_VJ210576.Ejemplo1.resources
+C:\Users\Postgrados\Documents\AGVJ\PED\Ejemplo 1\Guia 1 PED VJ210576\obj\Debug\Guia_1_PED_VJ210576.Properties.Resources.resources
+C:\Users\Postgrados\Documents\AGVJ\PED\Ejemplo 1\Guia 1 PED VJ210576\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+C:\Users\Postgrados\Documents\AGVJ\PED\Ejemplo 1\Guia 1 PED VJ210576\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\Postgrados\Documents\AGVJ\PED\Ejemplo 1\Guia 1 PED VJ210576\obj\Debug\Guia 1 PED VJ210576.exe
+C:\Users\Postgrados\Documents\AGVJ\PED\Ejemplo 1\Guia 1 PED VJ210576\obj\Debug\Guia 1 PED VJ210576.pdb
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Guia 1 PED VJ210576\bin\Debug\Guia 1 PED VJ210576.exe.config
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Guia 1 PED VJ210576\bin\Debug\Guia 1 PED VJ210576.exe
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Guia 1 PED VJ210576\bin\Debug\Guia 1 PED VJ210576.pdb
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Guia 1 PED VJ210576\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Guia 1 PED VJ210576\obj\Debug\Ejemplo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Guia 1 PED VJ210576\obj\Debug\Guia_1_PED_VJ210576.Ejemplo1.resources
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Guia 1 PED VJ210576\obj\Debug\Guia_1_PED_VJ210576.Properties.Resources.resources
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Guia 1 PED VJ210576\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Guia 1 PED VJ210576\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Guia 1 PED VJ210576\obj\Debug\Guia 1 PED VJ210576.exe
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Guia 1 PED VJ210576\obj\Debug\Guia 1 PED VJ210576.pdb

@@ -1,0 +1,11 @@
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Ejemplo4\bin\Debug\Ejemplo4.exe.config
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Ejemplo4\bin\Debug\Ejemplo4.exe
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Ejemplo4\bin\Debug\Ejemplo4.pdb
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Ejemplo4\obj\Debug\Ejemplo4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Ejemplo4\obj\Debug\Ejemplo4.Form1.resources
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Ejemplo4\obj\Debug\Ejemplo4.Properties.Resources.resources
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Ejemplo4\obj\Debug\Ejemplo4.csproj.GenerateResource.cache
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Ejemplo4\obj\Debug\Ejemplo4.csproj.CoreCompileInputs.cache
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Ejemplo4\obj\Debug\Ejemplo4.exe
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Ejemplo4\obj\Debug\Ejemplo4.pdb
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Ejemplo4\obj\Debug\Ejemplo4.csproj.AssemblyReference.cache

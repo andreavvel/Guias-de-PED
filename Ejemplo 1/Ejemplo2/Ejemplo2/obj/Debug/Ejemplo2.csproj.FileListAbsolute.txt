@@ -1,0 +1,18 @@
+C:\Users\Postgrados\Documents\AGVJ\PED\Ejemplo2\bin\Debug\Ejemplo2.exe.config
+C:\Users\Postgrados\Documents\AGVJ\PED\Ejemplo2\bin\Debug\Ejemplo2.exe
+C:\Users\Postgrados\Documents\AGVJ\PED\Ejemplo2\bin\Debug\Ejemplo2.pdb
+C:\Users\Postgrados\Documents\AGVJ\PED\Ejemplo2\obj\Debug\Ejemplo2.Properties.Resources.resources
+C:\Users\Postgrados\Documents\AGVJ\PED\Ejemplo2\obj\Debug\Ejemplo2.csproj.GenerateResource.cache
+C:\Users\Postgrados\Documents\AGVJ\PED\Ejemplo2\obj\Debug\Ejemplo2.csproj.CoreCompileInputs.cache
+C:\Users\Postgrados\Documents\AGVJ\PED\Ejemplo2\obj\Debug\Ejemplo2.exe
+C:\Users\Postgrados\Documents\AGVJ\PED\Ejemplo2\obj\Debug\Ejemplo2.pdb
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe.config
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.pdb
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csproj.AssemblyReference.cache
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.Properties.Resources.resources
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csproj.GenerateResource.cache
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csproj.CoreCompileInputs.cache
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.exe
+C:\Users\ANDREA\OneDrive - Universidad Don Bosco\Documentos\PED\Ejemplo 1\Ejemplo 1\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.pdb
